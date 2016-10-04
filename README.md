@@ -4,6 +4,6 @@ This repository contains a homebrew formula for installing trec\_eval through ho
 
 ## Installing
 
- - `brew tap hscells/homebrew-trec-eval`
+ - `brew tap hscells/ir`
 
  - `brew install trec_eval`
