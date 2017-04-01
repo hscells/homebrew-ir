@@ -6,6 +6,7 @@ class RbpEval < Formula
   sha256 '5467fb35116c10527979fbdc152e4041cb62414c6295fd1ed31312b60a1c69a9'
   version '0.2'
 
+  depends_on 'gmp'
 
   def install
 
