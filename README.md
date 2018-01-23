@@ -11,10 +11,11 @@ without much hassle.
 
  - e.g. `brew install trec_eval`
 
-|name          |link                                                |
-|--------------|----------------------------------------------------|
-|`trec_eval`   |http://trec.nist.gov/trec_eval/                     |
-|`stanford-ner`|http://nlp.stanford.edu/software/CRF-NER.shtml      |
-|`word2vec`    |https://arxiv.org/abs/1301.3781                     |
-|`inst_eval`   |https://github.com/ielab/inst_eval                  |
-|`rbp_eval`    |http://dl.acm.org/citation.cfm?doid=1416950.1416952 |
+|name          |link                                                         |
+|--------------|-------------------------------------------------------------|
+|`trec_eval`   |http://trec.nist.gov/trec_eval/                              |
+|`stanford-ner`|http://nlp.stanford.edu/software/CRF-NER.shtml               |
+|`word2vec`    |https://arxiv.org/abs/1301.3781                              |
+|`inst_eval`   |https://github.com/ielab/inst_eval                           |
+|`rbp_eval`    |http://dl.acm.org/citation.cfm?doid=1416950.1416952          |
+|`svm_rank`    |https://www.cs.cornell.edu/people/tj/svm_light/svm_rank.html |
